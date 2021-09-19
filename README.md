@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 Hi and welcome to my code playground! Know me more here
-<br> 🔭 I’m currently pursue my study on master degree
-<br> 🌱 I’m currently learning Computer Vision, Speech Processing, Machine Learning, and Data Science, also I learn some android development
-<br> 📫 Reach me here ---> biolinky.co/nadyadtm
+
+- 🔭 I’m currently pursue my study on master degree
+- 🌱 I’m currently learning Computer Vision, Speech Processing, Machine Learning, and Data Science, also I learn some android development
+- 📫 Reach me here ---> biolinky.co/nadyadtm
 
 
 <!--
