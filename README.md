@@ -2,7 +2,7 @@
 
 Hi and welcome to my code playground! Know me more here
 
-- 🔭 I’m currently pursue my study on master degree
+- 🔭 I’m currently pursuing my study on master degree
 - 🌱 I’m currently learning Computer Vision, Speech Processing, Machine Learning, and Data Science, also I learn some android development
 - 📫 Reach me here ---> biolinky.co/nadyadtm
 
