@@ -6,7 +6,7 @@ Hi and welcome to my code playground! Know me more here
 - 🌱 I’m currently learning Computer Vision, Natural Language Processing, Machine Learning, and Data Science, also I learn some android development
 
 
-📫 Reach me here
+### 📫 Reach me here
 <div id="badges">
   <a href="https://www.linkedin.com/in/nadyadtm17/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
