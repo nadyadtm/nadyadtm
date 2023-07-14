@@ -4,7 +4,14 @@ Hi and welcome to my code playground! Know me more here
 
 - 🔭 I’m master fresh graduate at Bandung Institute of Technology
 - 🌱 I’m currently learning Computer Vision, Natural Language Processing, Machine Learning, and Data Science, also I learn some android development
-- 📫 Reach me here ---> biolinky.co/nadyadtm
+
+
+📫 Reach me here
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div> 
 
 
 <!--
