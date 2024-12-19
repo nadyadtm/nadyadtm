@@ -4,6 +4,7 @@ Welcome to my code playground! Know me more here
 
 - 🔭 I’m master graduate at Bandung Institute of Technology
 - 🌱 I’m currently learning Computer Vision, Natural Language Processing, Machine Learning, and Data Science.
+- ✨ I love to exploring something interesting
 
 
 ### 📫 Reach me here
